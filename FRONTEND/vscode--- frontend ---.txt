@@ -1,0 +1,12 @@
+vscode---> frontend --->
+
+vscode ---> terminal --->
+
+1.cmd
+
+2.conda activate env
+
+3.python app.py
+
+
+save this....
